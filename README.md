@@ -17,3 +17,7 @@ https://github.com/01alchemist/x-ray.js
 # 光线追踪
 
 https://github.com/erichlof/THREE.js-PathTracing-Renderer?tab=readme-ov-file
+
+https://github.com/erichlof/THREE.js-RayTracing-Renderer?tab=readme-ov-file
+
+https://github.com/Labrium/MonteRay?tab=readme-ov-file#examples
