@@ -14,6 +14,8 @@ https://github.com/theatre-js/theatre
 
 https://github.com/01alchemist/x-ray.js
 
+https://github.com/jsantell/THREE.IK
+
 # 光线追踪
 
 https://github.com/erichlof/THREE.js-PathTracing-Renderer?tab=readme-ov-file
