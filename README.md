@@ -16,6 +16,8 @@ https://github.com/01alchemist/x-ray.js
 
 https://github.com/jsantell/THREE.IK
 
+https://github.com/Fennec-hub/three-viewport-gizmo?tab=readme-ov-file
+
 # 光线追踪
 
 https://github.com/erichlof/THREE.js-PathTracing-Renderer?tab=readme-ov-file
