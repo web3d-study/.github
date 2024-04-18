@@ -18,6 +18,8 @@ https://github.com/jsantell/THREE.IK
 
 https://github.com/Fennec-hub/three-viewport-gizmo?tab=readme-ov-file
 
+https://github.com/Alchemist0823/three.quarks
+
 # 光线追踪
 
 https://github.com/erichlof/THREE.js-PathTracing-Renderer?tab=readme-ov-file
