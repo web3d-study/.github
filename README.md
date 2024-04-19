@@ -20,6 +20,8 @@ https://github.com/Fennec-hub/three-viewport-gizmo?tab=readme-ov-file
 
 https://github.com/Alchemist0823/three.quarks
 
+https://github.com/pmndrs/postprocessing?tab=readme-ov-file
+
 # 光线追踪
 
 https://github.com/erichlof/THREE.js-PathTracing-Renderer?tab=readme-ov-file
